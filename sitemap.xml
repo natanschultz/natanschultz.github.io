@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://natani.me/</loc>
+    <loc>https://natani.me/</loc>
   </url>
   
   <url>
-    <loc>http://natani.me/categories/</loc>
+    <loc>https://natani.me/categories/</loc>
   </url>
   
   <url>
-    <loc>http://natani.me/tags/</loc>
+    <loc>https://natani.me/tags/</loc>
   </url>
   
 </urlset>
